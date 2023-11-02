@@ -1,0 +1,60 @@
+.hide{
+    display: none;
+}
+.main-container{
+    background-color:black;
+    width: 450px;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.btn{
+    height: 2.5rem;
+    width : 2.5rem;
+    border-radius:50%;
+    margin-bottom:1rem;
+    background-color:orange;
+    cursor:pointer;
+}
+.btn:hover{
+    background-color: rgb(250, 249, 249);
+}
+.submitbtn{
+    height: 2rem;
+    width : 5rem;
+    background-color:orange;
+    border-radius: 0.8rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+}
+.submitbtn:hover{
+    background-color: rgb(250, 249, 249);
+}
+.thankyoucard{
+    background-color: black;
+    width: 450px;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.back{
+    height: 2rem;
+    width : 5rem;
+    background-color:orange;
+    border-radius: 0.8rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+}
+img{
+    height: 130px;
+    width: 380px;
+    padding: 20px;
+    border-radius: 40px;
+    
+}
+.showStars{
+    display: flex;
+    justify-content: space-around;
+
+}
+
